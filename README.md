@@ -42,3 +42,26 @@ Dies dient der besseren Nachverfolgbarkeit und Transparenz.
 
 <img width="158" height="269" alt="image" src="https://github.com/user-attachments/assets/944537b2-080a-4807-8859-b6ae3f8e6803" />
 
+### Properties
+Beinhaltet projektbezogene Einstellungen, wie die Assembly-Informationen oder Konfigurationsdateien.
+
+### Controllers
+Hier befinden sich die Controller-Klassen für die API. Sie definieren die Endpunkte und steuern den Datenfluss zwischen dem Frontend und der Geschäftslogik des Projekts.
+
+### BusinessLogic.Manager
+Dieser Ordner enthält die Geschäftslogik und Manager-Klassen, die komplexe Abläufe und Verarbeitungen innerhalb des Systems implementieren.
+
+### Dal.Ado
+Hier sind die Klassen, die den Datenzugriff implementieren, um Daten aus der Datenbank abzurufen oder zu speichern.
+
+### Dal.Common
+Beinhaltet gemeinsam genutzte Komponenten für den Datenzugriff, wie Schnittstellen oder generische Klassen, die in verschiedenen 'Dao'-Implementierungen verwendet werden.
+
+### Dto
+Dient zur Definition von Data Transfer Objects. Diese Objekte werden verwendet, um Daten effizient zwischen verschiedenen Schichten des Systems zu übertragen.
+
+### Model
+Enthält die Domänenmodelle des Projekts, die die Struktur und Eigenschaften der Daten definieren, z.B. Klassen wie RouteModel oder HolidayModel.
+
+### Program
+Beinhaltet die Hauptdateien und Skripte, die zum Starten und Initialisieren des Programms verwendet werden. Typischerweise enthält es die Program.cs-Datei für den Einstiegspunkt der Anwendung.
