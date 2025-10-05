@@ -37,3 +37,8 @@ Jeder arbeitet an seinem eigenen Branch und erstellt bei Abschluss der Entwicklu
 
 Wir verwenden klare und prägnante Commit-Nachrichten, die die Änderungen beschreiben (z. B. Datenbankanbindung für Feiertage hinzugefügt oder Fehler in der Routenberechnung behoben).
 Dies dient der besseren Nachverfolgbarkeit und Transparenz.
+
+## Projektstruktur
+
+<img width="158" height="269" alt="image" src="https://github.com/user-attachments/assets/944537b2-080a-4807-8859-b6ae3f8e6803" />
+
