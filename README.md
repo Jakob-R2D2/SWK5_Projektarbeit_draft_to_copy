@@ -3,9 +3,10 @@
 Dieses Projekt dient zur Entwicklung eines Busfahrplan-Systems im Rahmen der Ausbaustufe 1 (SWK). Ziel ist es, eine einfache Datenbank mit Entitäten für Feiertage, Haltestellen und Routen zu erstellen, sowie eine grundlegende Zugriffsschicht und Testdaten bereitzustellen.
 
 ## Teammitglieder
-Lukas Kastner Gruppe 2
-Jakob Müller Gruppe 2
-Build - dbManager
+- Lukas Kastner Gruppe 2
+- Jakob Müller Gruppe 2
+
+## Build - dbManager
 Das build.py-Skript muss ausgeführt werden, um die SQLite-Datenbank und die Testdaten zu erstellen. Bei jeder Ausführung wird die bestehende Datenbank gelöscht und neu erstellt. Dies stellt sicher, dass alle Änderungen an den Testdaten nachvollziehbar sind und die Datenbank in einem sauberen Zustand für Tests vorliegt.
 
 Ausführung in der CMD:
